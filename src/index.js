@@ -10,6 +10,7 @@ import promiseMiddleware from 'redux-promise';
 import ReduxThunk from 'redux-thunk';
 import rootReducer from './redux/reducer';
 import { composeWithDevTools } from 'redux-devtools-extension';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const middlewares = [promiseMiddleware, ReduxThunk];
 const store = createStore(

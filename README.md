@@ -1,12 +1,9 @@
 # react + chat 
-
-<br/>
 ## Practice stack
 * react 
 * firebase
 * redux
  
-<br/>
-## and
+## And..
 * react-bootstrap
 * react-icons

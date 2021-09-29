@@ -7,3 +7,4 @@
 ## And..
 * react-bootstrap
 * react-icons
+* react-hook-form
